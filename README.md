@@ -9,6 +9,8 @@ A modern, responsive website for a fitness training center featuring class sched
 
 ## 📋 Overview
 
+https://github.com/user-attachments/assets/05a4ae77-1783-4226-938b-ee7376ff2e05
+
 PowerFull is a comprehensive fitness website that provides information about various fitness classes, trainer profiles, equipment purchases, and allows users to calculate their BMI and book appointments. The website features a clean, modern design with smooth animations and responsive layout.
 
 ## 🚀 Features
