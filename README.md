@@ -3,6 +3,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+**PROJECT LINK ON LIVE NETLIFY ->** https://sportcenterpatikaproject.netlify.app/
+
 A modern, responsive website for a fitness training center featuring class schedules, trainer profiles, BMI calculator, and appointment booking functionality.
 
 ## 📋 Overview
