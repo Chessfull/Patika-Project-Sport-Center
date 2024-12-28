@@ -1,6 +1,9 @@
 // -> Making navbar transparent until we scroll -> Değerlendirme Formu : 9
 const navbar = document.querySelector(".navbar");
 if (navbar) {
+  
+  navbar.style.backgroundColor = "transparent";
+
   window.addEventListener("scroll", () => {
     // -> Adding transparency effect when scrolling
     navbar.style.backgroundColor =
