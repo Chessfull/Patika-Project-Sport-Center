@@ -1,4 +1,4 @@
-# PowerFull Fitness Training Website 🏋️‍♂️
+# Patika PowerFull Fitness Training Website 🏋️‍♂️
 
 A modern, responsive website for a fitness training center featuring class schedules, trainer profiles, BMI calculator, and appointment booking functionality.
 
