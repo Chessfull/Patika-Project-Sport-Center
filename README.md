@@ -1,4 +1,7 @@
 # Patika PowerFull Fitness Training Website 🏋️‍♂️
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javatpoint.com/what-is-vanilla-javascript)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 A modern, responsive website for a fitness training center featuring class schedules, trainer profiles, BMI calculator, and appointment booking functionality.
 
@@ -72,3 +75,15 @@ To use the Google Maps functionality, you need to:
 ```javascript
 script.src = `https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap`;
 ```
+
+________________________________________________________________________________________________________________________
+
+# :incoming_envelope: Contact Information :incoming_envelope:
+
+For any questions or further information, please don't hesitate to contact me :pray:
+
+Email: merttopcu.dev@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mert-topcu/
+
+Happy Coding ❤️
