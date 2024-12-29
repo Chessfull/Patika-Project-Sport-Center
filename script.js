@@ -1,3 +1,31 @@
+// -> Mobile menu toggle functionality here
+
+const mobileToggle = document.querySelector('.mobile-toggle');
+const navLinks = document.querySelector('.nav-links');
+
+if (mobileToggle && navLinks) {
+  mobileToggle.addEventListener('click', () => {
+    mobileToggle.classList.toggle('active');
+    navLinks.classList.toggle('active');
+  });
+
+  // -> Close menu when clicking a link
+  navLinks.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      mobileToggle.classList.remove('active');
+      navLinks.classList.remove('active');
+    });
+  });
+
+  // -> Close menu when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!navLinks.contains(e.target) && !mobileToggle.contains(e.target)) {
+      mobileToggle.classList.remove('active');
+      navLinks.classList.remove('active');
+    }
+  });
+}
+
 // -> Making navbar transparent until we scroll -> Değerlendirme Formu : 9
 const navbar = document.querySelector(".navbar");
 if (navbar) {
